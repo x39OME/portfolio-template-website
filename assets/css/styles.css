@@ -441,6 +441,7 @@ img {
   }
   .contact__container {
     justify-items: center;
+    flex-direction: column;
   }
 }
 
