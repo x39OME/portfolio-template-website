@@ -1,5 +1,4 @@
 # Portfolio Responsive 
-
+### Final project section 1 - Html\Css & Javascript
 - Ustudy
-- Final project 
 - Section 1
